@@ -1,6 +1,6 @@
 <b>Privacy Policy</b>
 
-Developer built the Loud Horns and Sirens App as an Ad Supported app. This
+Developer built the Loud Air Horn Prank Sound App as an Ad Supported app. This
 app is provided by at no cost and is intended for use as is:
 
 This privacy policy is used to inform you regarding policies with the collection, use, and
