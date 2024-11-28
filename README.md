@@ -98,7 +98,7 @@ Any other mode of distribution is not official and thus, is not maintained by th
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2024-11-10
+This privacy policy is effective as of 2024-11-28
 
 <b>11. Your Consent</b>
 
