@@ -42,24 +42,31 @@ https://firebase.google.com/support/privacy
 https://yandex.com/legal/confidential
 
 <b>AdMob</b>
+
 https://support.google.com/admob/answer/6128543
 
 <b>AppLovin Corporation</b>
+
 https://www.applovin.com/privacy
 
 <b>IronSource Mobile Ltd</b>
+
 https://www.is.com/privacy-policy
 
 <b>Mintegral</b>
+
 https://www.mintegral.com/en/privacy
 
 <b>Bigo</b>
+
 https://www.adsbigo.com/privacy.html
 
 <b>Liftoff</b>
+
 https://liftoff.io/privacy-policy/#h.1f64gwp2q1iz
 
 <b>VK реклама</b>
+
 https://id.vk.com/privacy
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
