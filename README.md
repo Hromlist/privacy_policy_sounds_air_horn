@@ -57,7 +57,7 @@ https://www.is.com/privacy-policy
 
 https://www.mintegral.com/en/privacy
 
-<b>Bigo</b>
+<b>Bigo Ads</b>
 
 https://www.adsbigo.com/privacy.html
 
